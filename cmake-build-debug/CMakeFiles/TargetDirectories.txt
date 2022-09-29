@@ -1,0 +1,3 @@
+/home/lferraro/Documents/Lolo/cmake-build-debug/CMakeFiles/Lolo.dir
+/home/lferraro/Documents/Lolo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/lferraro/Documents/Lolo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
